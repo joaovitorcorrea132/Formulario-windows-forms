@@ -1,0 +1,11 @@
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\bin\Debug\Trabalho1.exe.config
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\bin\Debug\Trabalho1.exe
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\bin\Debug\Trabalho1.pdb
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csproj.AssemblyReference.cache
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\obj\Debug\Trabalho1.Properties.Resources.resources
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csproj.GenerateResource.cache
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csproj.CoreCompileInputs.cache
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\obj\Debug\Trabalho1.exe
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\obj\Debug\Trabalho1.pdb
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\Trabalho1\Trabalho1\obj\Debug\Trabalho1.form.resources
